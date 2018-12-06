@@ -1,2 +1,2 @@
 # archicad
-customization of archicad object
+customization of archicad objects
